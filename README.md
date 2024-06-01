@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ROCK PAPER SCISSORS
 
     #### Video Demo:  <URL HERE>
@@ -17,3 +18,7 @@ In project.py, i have implemented various functions like :-
 - copies of rock_command , paper_command and scissor_command
 - test_rock_command , test_paper_command and test_scissor_command to test rock_command , paper_command and scissor_command
   \*setup function is used to set up any necessary resources or dependencies before running each test case.
+=======
+# Rock_paper_scissors-game
+Rock paper scissors game made using tkinter and random module of python which you can play against the computer
+>>>>>>> 2e17b9c55ddbed59149fcf4829415ce737b3c79e
